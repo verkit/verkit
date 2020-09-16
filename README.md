@@ -24,5 +24,4 @@ I'm Verdy, web and mobile developer from <img src="https://www.flaticon.com/svg/
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=verkit&hide=rich%20text%20format&layout=compact&count_private=true)](https://github.com/verkit/github-readme-stats)
 <img align="left" alt="Verkit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=verkit&show_icons=true&hide_border=true&theme=dark" />
