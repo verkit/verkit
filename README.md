@@ -1,6 +1,6 @@
 ### Hi, Apa Kabar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Verdy, web and mobile developer from <img src="https://www.flaticon.com/svg/static/icons/svg/323/323372.svg" width="13"/> <b>Indonesia</b>. Love <b style="color:red;">Laravel</b> and <b>Flutter</b> for development
+I'm Verdy, flutter developer from <img src="https://www.flaticon.com/svg/static/icons/svg/323/323372.svg" width="13"/> <b>Indonesia</b>. Love <b style="color:red;">Laravel</b> and <b>Flutter</b> for development
 
 #### Have experience code with:
 <p>
